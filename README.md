@@ -1,14 +1,16 @@
 # number_widget
 
-A new Flutter package project.
+This package provide NumberPicker that enable user to increase decrease the counter as well as ability to insert the value using the keyboard
 
-## Getting Started
+## Usuage
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+Please check example project for usuage
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+Add the following line to pubspec.yaml:
+
+```yaml
+dependencies:
+  number_widget: ^0.0.1
+```
